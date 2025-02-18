@@ -103,8 +103,9 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 
 ## 📬 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseemmalik72/)  
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zmwaseemmalik)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseemmalik72/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/zmwaseemmalik)
 
 📧 **Email:** [znmwaseem66@gmail.com](mailto:znmwaseem66@gmail.com)  
 📍 **Location:** Industry Area, Karachi  
