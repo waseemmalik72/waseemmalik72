@@ -1,4 +1,3 @@
-
 <!--
 **waseemmalik72/waseemmalik72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,8 +30,6 @@ Currently, I am enhancing my skills by learning **Next.js**, focusing on perform
 I am eager to contribute to innovative projects, collaborate with like-minded developers, and continuously improve my expertise in frontend technologies.
 
 💡 **Open to job opportunities** where I can leverage my skills to create impactful digital experiences.
-
-hello world
 
 </p>
 
