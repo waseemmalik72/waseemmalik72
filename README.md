@@ -40,7 +40,7 @@ I am Waseem Malik, a passionate **MERN Stack Developer** eager to learn and grow
 
 ### 🔹 Responsive Website for Academic Project
 
-🔗 [Live Project](https://futureai.me/)
+🔗 [Live Project](https://saylani.futureai.me/)
 
 - Developed a **responsive static website** inspired by Saylani Welfare using HTML, CSS, Bootstrap, and JavaScript.
 - Optimized for mobile, tablet, and desktop devices.
@@ -48,7 +48,7 @@ I am Waseem Malik, a passionate **MERN Stack Developer** eager to learn and grow
 
 ### 🔹 CRUD Application with JWT Authentication
 
-🔗 [Live Project](https://futureai.me/)
+🔗 [Live Project](https://crud.futureai.me/)
 
 - Secure **JWT authentication** for user access.
 - Full **CRUD functionality** with an intuitive dashboard.
@@ -56,7 +56,7 @@ I am Waseem Malik, a passionate **MERN Stack Developer** eager to learn and grow
 
 ### 🔹 Dynamic Quiz Hub: Quiz Application
 
-🔗 [Live Project](https://futureai.me/)
+🔗 [Live Project](https://quiz.futureai.me/)
 
 - Quiz system with **multiple-choice, true/false, and fill-in-the-blank** question types.
 - **Real-time score tracking** and a results page.
