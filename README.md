@@ -13,28 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Waseem Malik! 👋
-
 ## 🚀 About Me
 
-I am Waseem Malik, a passionate **MERN Stack Developer** eager to learn and grow in the field of web development. With a strong foundation in JavaScript and modern frameworks, I strive to build **efficient, user-focused, and scalable applications**. I am highly adaptable to industry trends and committed to delivering quality results.
+# Hi, I'm Waseem Malik! 👋  
+
+🚀 **Frontend Developer | Passionate About Modern Web Technologies**  
+
+I am a dedicated **Frontend Developer** with a strong foundation in building **interactive, responsive, and user-friendly web applications**.  
+Currently, I am enhancing my skills by learning **Next.js**, focusing on performance optimization and modern web development best practices.  
+
+I am eager to contribute to innovative projects, collaborate with like-minded developers, and continuously improve my expertise in frontend technologies.  
+
+💡 **Open to job opportunities** where I can leverage my skills to create impactful digital experiences.  
+
 
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript (ES6+), HTML, CSS
-- **Front-end:** React.js, Next.js, Bootstrap, Tailwind CSS
+- **Front-end:** React.js, Bootstrap,
 - **Back-end:** Node.js, Express.js
 - **Databases:** MongoDB
 - **Version Control:** Git, GitHub
 - **Other:** RESTful APIs, JWT Authentication, WakaTime (for activity tracking)
 
-## 📈 GitHub & WakaTime Stats
+## 📈 GitHub Stats
 
 ![Waseem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waseemmalik72&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemmalik72&layout=compact&theme=radical)
 
-⏳ **My Coding Activity (WakaTime)**
-![Waseem's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=waseemmalik72&theme=radical)
 
 ## 🏆 Projects
 
@@ -69,7 +75,6 @@ I am Waseem Malik, a passionate **MERN Stack Developer** eager to learn and grow
 
 ## 🎖 Certifications
 
-- **Front-End Web Development with React** – Coursera 📜
 - **Web Development Foundations** – LinkedIn Learning 📜
 
 ## 🌍 Personal Portfolio
