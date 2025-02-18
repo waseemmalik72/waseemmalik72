@@ -13,24 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-<h1>
-
-# Hi, I'm Waseem Malik! 👋
-
-</h1>
-
-<p>
-
-🚀 **Frontend Developer | Passionate About Modern Web Technologies**
-
-I am a dedicated **Frontend Developer** with a strong foundation in building **interactive, responsive, and user-friendly web applications**.  
-Currently, I am enhancing my skills by learning **Next.js**, focusing on performance optimization and modern web development best practices.
-
-I am eager to contribute to innovative projects, collaborate with like-minded developers, and continuously improve my expertise in frontend technologies.
-
-💡 **Open to job opportunities** where I can leverage my skills to create impactful digital experiences.
-
-</p>
-
+<div align="center" style="background-color: #f3f3f3; padding: 20px; border-radius: 10px;">
+  <h1>Hi, I'm Waseem Malik! 👋</h1>
+  <h3>🚀 Frontend Developer | Passionate About Modern Web Technologies</h3>
+  <p>🌟 Building interactive, responsive, and user-friendly web applications.</p>
+  <p>📌 Currently learning <b>Next.js</b> to enhance performance optimization.</p>
+  <p>💡 Open to job opportunities!</p>
 </div>
