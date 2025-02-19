@@ -27,18 +27,20 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 💡 **Open to job opportunities** where I can leverage my skills to create impactful digital experiences.  
 
 ---
-## 🌐 Connect with Me  
+## Connect with Me 🌐
 
 <p align="center">
- <a href="https://www.linkedin.com/in/waseemmalik72/" rel="nofollow"><img align="center" src="https://w7.pngwing.com/pngs/670/159/png-transparent-facebook-logo-social-media-facebook-computer-icons-linkedin-logo-facebook-icon-media-internet-facebook-icon-thumbnail.png" height="50" width="50" alt="linkedin" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;"></a>
-  <a href="https://www.facebook.com/zmwaseemmalik" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50" width="50" alt="Facebook" />
+  <a href="https://www.linkedin.com/in/waseemmalik72/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/waseemmalik72" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" width="50" alt="GitHub" />
+  <a href="https://www.facebook.com/zmwaseemmalik" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" alt="Facebook" />
   </a>
   <a href="mailto:znmwaseem66@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" height="50" width="50" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="50" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" height="50" alt="Twitter" />
   </a>
 </p>
 
