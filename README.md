@@ -26,6 +26,8 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 
 💡 **Open to job opportunities** where I can leverage my skills to create impactful digital experiences.  
 
+---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -62,6 +64,7 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>
 </p>
 
+---
 
 ## 📈 GitHub Stats
 
@@ -69,7 +72,7 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemmalik72&layout=compact&theme=react&hide_border=true)
 
-
+---
 
 ## 🏆 Projects
 
@@ -81,6 +84,8 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 - Optimized for mobile, tablet, and desktop devices.
 - Ensured cross-browser compatibility with a modern UI.
 
+---
+
 ### 🔹 CRUD Application with JWT Authentication
 
 🔗 [Live Project](https://crud.futureai.me/)
@@ -88,6 +93,8 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 - Secure **JWT authentication** for user access.
 - Full **CRUD functionality** with an intuitive dashboard.
 - Technologies Used: **React.js, Node.js, MongoDB, Express.js**
+
+---
 
 ### 🔹 Dynamic Quiz Hub: Quiz Application
 
@@ -97,14 +104,20 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 - **Real-time score tracking** and a results page.
 - Clean UI with seamless navigation.
 
+---
+
 ## 📚 Education
 
 - **Intermediate** (Board of Intermediate Education Karachi) | 2018-2020
 - **Web Development** (Saylani Welfare Int Trust - SMIT) | 2022-2023
 
+---
+
 ## 🎖 Certifications
 
 - **Web Development Foundations** – LinkedIn Learning 📜
+
+---
 
 ## 🌍 Personal Portfolio
 
@@ -113,6 +126,8 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 - Showcases **Quiz Application and CRUD Application** with descriptions.
 - **Certifications, technical skills, and academic achievements.**
 - Responsive design using HTML, CSS, and Bootstrap.
+
+---
 
 ## 🚀 Future Learning  
 
@@ -125,7 +140,7 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="100"/>
 </p>
 
-
+---
 
 ## 🔥 Extracurricular Activities
 
@@ -134,6 +149,8 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 - **Hackathon:** Participated in a hackathon solving real-world coding challenges.
 - **Open Source Contributions:** Fixed bugs and added features in GitHub projects.
 - **Technical Workshops:** Attended sessions on JavaScript, React, and modern web tools.
+
+---
 
 ## 🔗 Connect with Me  
 
