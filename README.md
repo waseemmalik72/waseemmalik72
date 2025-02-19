@@ -32,16 +32,16 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 
 <p align="center">
   <a href="mailto:znmwaseem66@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/waseemmalik72/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/waseemmalik72" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://www.facebook.com/zmwaseemmalik" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
   </a>
 </p>
 
@@ -133,7 +133,7 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 
 **Technologies I am planning to learn next:**  
 
-<p align="left">
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="100"/>
