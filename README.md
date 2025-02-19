@@ -38,8 +38,10 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 
 ## 📈 GitHub Stats
 
-![Waseem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waseemmalik72&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemmalik72&layout=compact&theme=radical)
+![Waseem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waseemmalik72&show_icons=true&theme=react&hide_border=true&count_private=true&custom_title=Waseem's%20GitHub%20Stats)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemmalik72&layout=compact&theme=react&hide_border=true)
+
 
 
 ## 🏆 Projects
