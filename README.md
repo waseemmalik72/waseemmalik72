@@ -28,21 +28,22 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 
 ## 🌐 Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="mailto:znmwaseem66@gmail.com" target="_blank">
-    <img src="https://camo.githubusercontent.com/6f9d8b4bd34a181a0f354f64734ff2dc1691d0614f75d77c7b67dbda58c10e41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" alt="Email" width="100"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/waseemmalik72/" target="_blank">
-    <img src="https://camo.githubusercontent.com/bd4111e83b2f1cc0d8bd771280353e4eb7e0e6408de2eb749aee4a740343cd7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn" width="100"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/waseemmalik72" target="_blank">
-    <img src="https://camo.githubusercontent.com/94dbedac84df5ea019170271b25acb3f348278bd88fbbaf5a1b1ef60235aa2d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" alt="GitHub" width="100"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.facebook.com/zmwaseemmalik" target="_blank">
-    <img src="https://camo.githubusercontent.com/2f5d8501b42aebfa8881a330b6bc8d55fc1d2039ff88d88e34343bcff7eec1cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b" alt="Facebook" width="100"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
+---
 
 
 
