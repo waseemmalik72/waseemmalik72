@@ -43,7 +43,7 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
   </a>
 </p>
 
---
+---
 
 
 ## 🛠️ Languages and Tools ⚙️  
