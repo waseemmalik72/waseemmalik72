@@ -87,13 +87,16 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 - **Certifications, technical skills, and academic achievements.**
 - Responsive design using HTML, CSS, and Bootstrap.
 
-## 🎯 Future Learning Goals
+## 🚀 Future Learning  
 
-- **Next.js** (In Progress ✅)
-- **Cloud Computing:**
-  - Azure Cloud ☁️
-  - Amazon AWS ☁️
-  - Best Deployment Cloud Services 🚀
+**Technologies I am planning to learn next:**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+</p>
 
 ## 🔥 Extracurricular Activities
 
@@ -106,10 +109,10 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 ## 🔗 Connect with Me  
 
 📧 **Email:** [znmwaseem66@gmail.com](mailto:znmwaseem66@gmail.com)  
-📍 **Location:** Industry Area, Karachi  
 💼 **GitHub:** [github.com/waseemmalik72](https://github.com/waseemmalik72)  
 🔗 **LinkedIn:** [linkedin.com/in/waseemmalik72](https://www.linkedin.com/in/waseemmalik72/)  
 🌍 **Facebook:** [facebook.com/zmwaseemmalik](https://www.facebook.com/zmwaseemmalik)  
+📍 **Location:** Industry Area, Karachi  
 
 
 ---
