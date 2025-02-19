@@ -92,10 +92,10 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 **Technologies I am planning to learn next:**  
 
 <p align="left">
-  <img src="https://camo.githubusercontent.com/71b3a115b0030a38fcb5a64ae64f3d6165d3b294/68747470733a2f2f73746f726167652e6e6574646c6966792e6170702f617a7572652e706e67" alt="Azure" width="100"/>
-  <img src="https://camo.githubusercontent.com/6b6cb6c83dcf5e8919a4ff0a2f83023dbf5c521aa1fd949f909f3e954e7f37a5/68747470733a2f2f73746f726167652e6e6574646c6966792e6170702f6177732e706e67" alt="AWS" width="100"/>
-  <img src="https://camo.githubusercontent.com/1636f6b3a7f60c7c9f478f260f1b50cc68b4b9c132635a6b1dfc8eaddb77b6f9/68747470733a2f2f73746f726167652e6e6574646c6966792e6170702f6e6578746a732e706e67" alt="Next.js" width="100"/>
-  <img src="https://camo.githubusercontent.com/b82fb28a75a3886d0c420cd06205ba53f6b65dc05eb4ffb0a22bf85d4c3b347b/68747470733a2f2f73746f726167652e6e6574646c6966792e6170702f6e6573746a732e706e67" alt="NestJS" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="100"/>
 </p>
 
 ## 🔥 Extracurricular Activities
