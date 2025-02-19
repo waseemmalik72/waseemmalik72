@@ -152,15 +152,4 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 
 ---
 
-## 🔗 Connect with Me  
-
-📧 **Email:** [znmwaseem66@gmail.com](mailto:znmwaseem66@gmail.com)  
-💼 **GitHub:** [github.com/waseemmalik72](https://github.com/waseemmalik72)  
-🔗 **LinkedIn:** [linkedin.com/in/waseemmalik72](https://www.linkedin.com/in/waseemmalik72/)  
-🌍 **Facebook:** [facebook.com/zmwaseemmalik](https://www.facebook.com/zmwaseemmalik)  
-📍 **Location:** Industry Area, Karachi  
-
-
----
-
 🔹 **Thank you for visiting my profile! Let's build something amazing together.** 🚀
