@@ -101,15 +101,14 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 - **Open Source Contributions:** Fixed bugs and added features in GitHub projects.
 - **Technical Workshops:** Attended sessions on JavaScript, React, and modern web tools.
 
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseemmalik72/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/zmwaseemmalik)
+## 🔗 Connect with Me  
 
 📧 **Email:** [znmwaseem66@gmail.com](mailto:znmwaseem66@gmail.com)  
 📍 **Location:** Industry Area, Karachi  
-💼 **GitHub:** [github.com/waseemmalik72](https://github.com/waseemmalik72)
+💼 **GitHub:** [github.com/waseemmalik72](https://github.com/waseemmalik72)  
+🔗 **LinkedIn:** [linkedin.com/in/waseemmalik72](https://www.linkedin.com/in/waseemmalik72/)  
+🌍 **Facebook:** [facebook.com/zmwaseemmalik](https://www.facebook.com/zmwaseemmalik)  
+
 
 ---
 
