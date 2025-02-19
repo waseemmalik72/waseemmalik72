@@ -98,6 +98,8 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="100"/>
 </p>
 
+
+
 ## 🔥 Extracurricular Activities
 
 - **Bootcamp:** Web development bootcamp to enhance front-end and back-end skills.
