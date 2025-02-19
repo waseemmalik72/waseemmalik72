@@ -27,21 +27,20 @@ I am eager to contribute to innovative projects, collaborate with like-minded de
 💡 **Open to job opportunities** where I can leverage my skills to create impactful digital experiences.  
 
 ---
-
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="mailto:znmwaseem66@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/waseemmalik72/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://github.com/waseemmalik72" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://img.icons8.com/ios-filled/50/181717/github.png" alt="GitHub" />
   </a>
   <a href="https://www.facebook.com/zmwaseemmalik" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+    <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" alt="Facebook" />
   </a>
 </p>
 
